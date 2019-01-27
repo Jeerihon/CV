@@ -1,5 +1,4 @@
-# Резюме
-## Корытов Артем
+# Корытов Артем
 Контактные данные
 * E-mail: korart_95@mail.ru
 * Skype: icecreamyouscream
