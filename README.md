@@ -33,7 +33,7 @@
 
 Инструменты: JS, CSS, Jade/pug, Vue, ajax
 
-Ссылка на проект: jeerihon.github.io/dist/index.html
+Ссылка на проект: jeerihon.github.io/dist/index.html(jeerihon.github.io/dist/index.html)
 
 ***
 
