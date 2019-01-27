@@ -1,6 +1,7 @@
 # Корытов Артем
 **Контактные данные**
 * E-mail: korart_95@mail.ru
+* skype:<username>?call
 * Skype: icecreamyouscream
 * Тел.: +7-914-919-60-48
 ***
