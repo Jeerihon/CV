@@ -9,7 +9,7 @@
 
 * Знание HTML (HTML5), CSS (CSS3).
 * Знание препроцессоров SASS/SCSS.
-* Знание шаблонизаторов Pug.
+* Знание шаблонизатора Pug.
 * Знания JavaScript и jQuery.
 * SPA, Vue.js.
 * Работа с Gulp, Webpack.
