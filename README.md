@@ -25,7 +25,7 @@
 
 # Недавние проекты:
 
-## [Личный сайт-портфолио](jeerihon.github.io/dist/index.html "")
+## [Личный сайт-портфолио](jeerihon.github.io/dist/index.html "Ссылка на сайт")
 
 Описание:	Сайт-портфолио с блогом и админ-панелью для редактирования статей.
 
@@ -33,7 +33,7 @@
 
 Инструменты: JS, CSS, Jade/pug, Vue, ajax
 
-Ссылка на проект: [jeerihon.github.io/dist/index.html](jeerihon.github.io/dist/index.html "Ссылка на сайт")
+Ссылка на проект: [jeerihon.github.io/dist/index.html](jeerihon.github.io/dist/index.html)
 
 ***
 
